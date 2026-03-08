@@ -10,7 +10,7 @@ O objetivo do desafio era desenvolver uma API em NodeJS para gerenciamento de pe
 ## Inicialização
 1. Na raiz da pasta, pelo terminal, executar o comando `npm install` para instalar todas as dependências;
 2. Executar o comando `node index.js` para iniciar o servidor da API;
-3. Testes podem ser executados pelo [Postman](https://www.postman.com/downloads/) ou diretamente no navegador através do http://localhost:3000/api/ + Rotas.
+3. Pode ser testado pelo [Postman](https://www.postman.com/downloads/) ou direto no navegador através de http://localhost:3000/api/ + Rotas.
 
 ## SwaggerUI
 - Documentação do SwaggerUI: http://localhost:3000/api-docs/
@@ -27,4 +27,5 @@ O objetivo do desafio era desenvolver uma API em NodeJS para gerenciamento de pe
 - Ainda não havia utilizado o SwaggerUI, apenas conhecia, então foi interessante adquirir mais esse conhecimento
 - Tentei deixar a utilização do projeto o mais clara o possivel, apesar de não ter tanta experiência com esse uso mais completo do Readme
 - Já havia desenvolvido APIs Rest anteriormente, então essa foi uma parte mais tranquila, porém estava há algum tempo sem usar Node/Express, então foi bem legal retomar os estudos
+
 
