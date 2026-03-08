@@ -24,8 +24,8 @@ O objetivo do desafio era desenvolver uma API em NodeJS para gerenciamento de pe
 - Dotenv (Variáveis de Ambiente do Projeto)
 
 ## Observações
-- Ainda não havia utilizado o SwaggerUI, apenas conhecia, então foi interessante adquirir mais esse conhecimento
-- Tentei deixar a utilização do projeto o mais clara o possivel, apesar de não ter tanta experiência com esse uso mais completo do Readme
-- Já havia desenvolvido APIs Rest anteriormente, então essa foi uma parte mais tranquila, porém estava há algum tempo sem usar Node/Express, então foi bem legal retomar os estudos
+- Ainda não havia usado o SwaggerUI, apenas o conhecia, então foi interessante adquirir mais esse conhecimento
+- Já havia desenvolvido APIs Rest anteriormente, então essa foi uma parte mais tranquila, porém estava há algum tempo sem usar Node/Express
+
 
 
